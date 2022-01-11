@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/git-and-github-mattsg6/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/git-and-github-mattsg6#readme"
+  "homepage": "https://github.com/comp426-2022-spring/git-and-github-mattsg6#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
